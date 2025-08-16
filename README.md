@@ -1,8 +1,8 @@
 ## Miguel Calisto
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=radical" style="width: 33%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=radical&langs_count=10&hide_title=true" style="width: 30%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=radical" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=radical&langs_count=10&hide_title=true" style="width: 49%;" />
 </div>
 
 
