@@ -1,8 +1,10 @@
 ## Miguel Calisto
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=radical)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=radical" style="width: 33%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=radical&langs_count=10&hide_title=true" style="width: 30%;" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=radical&langs_count=10&hide_title=true)
 
 ---
 ## 📈 Gráfico de atividade
