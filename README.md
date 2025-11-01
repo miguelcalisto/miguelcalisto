@@ -11,4 +11,4 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcalisto&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=flat&title=MultiLanguage,PullRequest,Commits,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=radical&title=MultiLanguage,PullRequest,Commits,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
