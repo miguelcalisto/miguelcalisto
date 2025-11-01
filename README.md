@@ -12,3 +12,7 @@
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=radical&title=MultiLanguage,PullRequest,Commits,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=flat-square&title=MultiLanguage,PullRequest,Commits,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+-->
