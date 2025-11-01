@@ -1,17 +1,14 @@
 ## Miguel Calisto
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=radical" style="width: 40%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=radical&langs_count=10&hide_title=true" style="width: 40%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=dracula" style="width: 40%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula&langs_count=10&hide_title=true" style="width: 40%;" />
 </div>
-
 
 ---
 ## 📈 Gráfico de atividade
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcalisto&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcalisto&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=onedark&title=MultiLanguage,PullRequest,Commits,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=flat&title=MultiLanguage,PullRequest,Commits,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
