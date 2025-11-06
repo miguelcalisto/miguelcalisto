@@ -23,5 +23,11 @@
 </picture>
 
 
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Dotfiles&theme=dracula)](https://github.com/miguelcalisto/Dotfiles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Agenda&theme=dracula)](https://github.com/miguelcalisto/Agenda)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=scripts-uteis&theme=dracula)](https://github.com/miguelcalisto/scripts-uteis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Projeto-integrador&theme=dracula)](https://github.com/miguelcalisto/Projeto-integrador)
+
 
 
