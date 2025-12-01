@@ -28,11 +28,28 @@
 
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Dotfiles&theme=dracula&v=1)](https://github.com/miguelcalisto/Dotfiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Agenda&theme=dracula&v=1)](https://github.com/miguelcalisto/Agenda)
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://github.com/miguelcalisto/Dotfiles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Dotfiles&theme=dracula&v=1" width="45%">
+    </a>
+    <a href="https://github.com/miguelcalisto/Agenda">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Agenda&theme=dracula&v=1" width="45%">
+    </a>
+  </div>
 
-[![scripts-uteis](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=scripts-uteis&theme=dracula&v=1)](https://github.com/miguelcalisto/scripts-uteis)
-[![Projeto-integrador](https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Projeto-integrador&theme=dracula&v=1)](https://github.com/miguelcalisto/Projeto-integrador)
+  <br/>
+
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <a href="https://github.com/miguelcalisto/scripts-uteis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=scripts-uteis&theme=dracula&v=1" width="45%">
+    </a>
+    <a href="https://github.com/miguelcalisto/Projeto-integrador">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=miguelcalisto&repo=Projeto-integrador&theme=dracula&v=1" width="45%">
+    </a>
+  </div>
+</div>
+
 
 
 
