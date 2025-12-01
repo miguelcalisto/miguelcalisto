@@ -19,12 +19,8 @@
 </picture>
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcalisto&theme=dracula" width="45%" />
-
+<div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula" width="45%" />
-
 </div>
 
 
