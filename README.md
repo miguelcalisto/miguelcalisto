@@ -14,6 +14,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula" width="45%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miguelcalisto&theme=dracula&layout=donut"  />
+
 </div>
 
 
