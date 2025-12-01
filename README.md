@@ -28,6 +28,9 @@
 
 
 ---
+
+
+
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%;">
     <a href="https://github.com/miguelcalisto/Dotfiles">
@@ -49,6 +52,7 @@
     </a>
   </div>
 </div>
+
 
 
 
