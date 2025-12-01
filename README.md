@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=radical&title=MultiLanguage,PullRequest,Commit,Repositories,Experience,Stars,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula" width="60% />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula" width="55%" />
 </div>
 
 
