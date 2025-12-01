@@ -1,9 +1,14 @@
 ## Miguel Calisto
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=dracula" style="width: 40%;" />
+
+<!--
+
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=pie&theme=dracula" style="width: 40%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula&langs_count=10&hide_title=true" style="width: 40%;" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=miguelcalisto&layout=compact&theme=dracula" />
 </div>
+-->
 
 ---
 ## 📈 Gráfico de atividade
@@ -13,7 +18,7 @@
 ---
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=radical&title=MultiLanguage,PullRequest,Commit,Repositories,Experience,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=radical&title=MultiLanguage,PullRequest,Commit,Repositories,Experience,Stars,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 todos
 [![trophy](https://github-profile-trophy.vercel.app/?username=miguelcalisto&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
