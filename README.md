@@ -1,9 +1,4 @@
 
-## Miguel Calisto
-
-
-
----
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelcalisto&bg_color=282a36&color=bd93f9&line=ff79c6&point=50fa7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
